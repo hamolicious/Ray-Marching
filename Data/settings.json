@@ -1,0 +1,10 @@
+{
+    "render_image_size": [100, 100],
+
+    "render_distance": 100,
+
+    "sky_colour": [200, 200, 255],
+    "light_strength": 0.8,
+
+    "fov": 90
+}
